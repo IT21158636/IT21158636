@@ -15,14 +15,14 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="https://www.linkedin.com/in/deneth-pinsara-6a765221b/" target="_blank">
+<a href="" target="_blank">
   <img align="center" alt="Deneth Pinsara | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/DenethOfficial" target="_blank">
+<a href="" target="_blank">
   <img align="center" alt="Deneth Pinsara | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/iam_deneth/" target="_blank">
-  <img align="center" alt="Iam_deneth | Instagram" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+<a href="" target="_blank">
+  <img align="center" alt="" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a> &nbsp;&nbsp;
 <p>
   
@@ -31,11 +31,11 @@
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 
-<a href="https://github.com/IT21158186?tab=ProfileViews" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=IT21158186&style=plastic" />
+<a href="https://github.com/IT21158636?tab=ProfileViews" target="_blank">
+  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=IT21158636&style=plastic" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/IT21158186?tab=followers" target="_blank">
-  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/IT21158186?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/IT21158636?tab=followers" target="_blank">
+  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/IT21158636?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 
@@ -70,9 +70,9 @@ Student Name: Rathnayake R.M.U.P.D.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158186&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=IT21158636&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158636&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158186&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158636&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
   <br/>
