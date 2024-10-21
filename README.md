@@ -43,8 +43,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently seeking an **Internship**
-
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specialising IT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
