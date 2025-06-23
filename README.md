@@ -21,7 +21,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <span style="background: linear-gradient(45deg, #00d4ff, #ff00ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: bold;">
-    FinTech Solutions Engineer
+    Associate Software Engineer
   </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
