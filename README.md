@@ -88,7 +88,7 @@ ui, ux, and design in general.(Prefered in Frontend Developing)
 
 
 If you like what am doing, maybe consider buying me a coffee/tea👉👈
-<a href="https://bmc.link/denethPinsara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://nextoex.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!-- ## Snake eating my contributions graph -->
 
