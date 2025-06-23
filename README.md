@@ -1,95 +1,276 @@
+<div align="center">
+
+<!-- Hero Section with Animated Background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Profile Image with Glow Effect -->
+<div style="position: relative; display: inline-block;">
+  <img src="https://github.com/IT21158636.png" width="180" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 30px #00d4ff;" />
+</div>
+
+<br/><br/>
+
+<!-- Dynamic Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Uresh+Pinidiya+%F0%9F%91%8B;FinTech+Solutions+Engineer+%F0%9F%92%B0;Java+Spring+Boot+%2B+React.js+Expert+%F0%9F%9A%80;Payment+Systems+Specialist+%F0%9F%92%B3;Banking+%26+Finance+Developer+%F0%9F%8F%A6;Security+%26+Compliance+Expert+%F0%9F%94%92;Building+Financial+Innovation+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Glowing Title -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <span style="background: linear-gradient(45deg, #00d4ff, #ff00ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: bold;">
+    FinTech Solutions Engineer
+  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<!-- Animated Subtitle -->
+<h3 align="center" style="color: #64ffda;">
+  🏦 Building Next-Gen Financial Solutions with Java Spring Boot & React.js 💳
+</h3>
+
+<br/>
+
+<!-- Social Media with Hover Effects -->
 <p align="center">
- <a href="https://github.com/IT21158636">
-   <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" autoplay>
- </a>
+  <a href="https://linkedin.com/in/uresh-pinidiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logoWidth=20" height="35"/>
+  </a>
+  <a href="https://twitter.com/uresh_pinidiya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic" height="35"/>
+  </a>
+  <a href="https://instagram.com/uresh_pinidiya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" height="35"/>
+  </a>
+  <a href="mailto:ureshpinidiya96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="35"/>
+  </a>
 </p>
 
-<p align="center" width="100%">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg" width="100%"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20There!;I'm%20Uresh%20Pinidiya;Full%20Stack%20Developer;Community%20Lead;Open-Source%20Enthusiast;SLIIT%20Undergraduate%20👨‍🎓;Looking%20an%20Internship&font=Fira%20Code&center=true&width=440&height=45&color=#a930ff&vCenter=true&size=28" width="100%"></a>
+<br/>
+
+<!-- Profile Stats with Glow -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IT21158636&style=for-the-badge&color=00d4ff&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/github/followers/IT21158636?label=Followers&style=for-the-badge&color=00d4ff&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Focus-FinTech%20Solutions-00d4ff?style=for-the-badge&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Code-Java%20%26%20React-ff00ea?style=for-the-badge&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Domain-Banking%20%26%20Finance-00c896?style=for-the-badge&labelColor=000000" height="35"/>
 </p>
 
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka and am also a freelancer. I'm learning from open-source communities and I love, how collaboration and knowledge-sharing happened through open-source.</h3>
+</div>
+
+<br/><br/>
+
+<!-- About Me Section with Cards -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Professional Journey
+- 💼 **FinTech Solutions Engineer** at Tech Industry
+- 🎓 **BSc (Hons) IT** Graduate from SLIIT
+- 🏆 **3+ Years** of Financial Software Development
+- 💰 **Payment Systems Specialist** in Banking Domain
+- 🏦 **Enterprise FinTech** Solutions Architect
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+- 💳 **Payment Gateway** Integration & Development
+- 🏦 **Core Banking** Systems Architecture
+- 💰 **Digital Wallet** & Mobile Banking Solutions
+- 🔐 **PCI-DSS Compliance** & Financial Security
+- 📊 **Real-time Trading** & Analytics Platforms
+
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
 
-<!-- Social icons section -->
+<!-- Tech Stack Showcase -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> FinTech Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+
+### 🏦 Banking & Finance Backend
 <p align="center">
-<a href="" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Linkedin" width="24px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Twitter" width="26px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-</a> &nbsp;&nbsp;
-<a href="" target="_blank">
-  <img align="center" alt="" width="24px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,redis,docker,aws" />
+</p>
 
-<!-- Badges with custom icons section -->
-<p align="center" width="100%">
+### 💳 Payment Systems & Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,bootstrap" />
+</p>
 
-<a href="https://github.com/IT21158636?tab=ProfileViews" target="_blank">
-  <img align="center" alt="Deneth Pinsara | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=IT21158636&style=plastic" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/IT21158636?tab=followers" target="_blank">
-  <img align="center" alt="Deneth Pinsara | followers" width="93px" src="https://img.shields.io/github/followers/IT21158636?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-
+### 🔒 Security & Compliance Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,firebase,nodejs" />
 </p>
 
 <br/>
 
-## 🙋‍♂️ About Me
+<!-- Advanced Skills with Progress Bars -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> FinTech Expertise Levels
 
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology Degree - Specialising IT**
+<div align="left">
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+**Payment Systems Development** 💳
+![Payment Systems](https://img.shields.io/badge/Payment%20Systems-95%25-00d4ff?style=for-the-badge&logo=stripe&logoColor=white&labelColor=000000)
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](http://"")** -->
+**Banking Solutions Architecture** 🏦  
+![Banking](https://img.shields.io/badge/Banking%20Solutions-92%25-61dafb?style=for-the-badge&logo=bank&logoColor=white&labelColor=000000)
 
-- 📫 How to reach me **ureshpinidiya96@gmail.com**
+**Financial Security & Compliance** 🔒
+![Security](https://img.shields.io/badge/Security%20%26%20Compliance-90%25-ff6b35?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000)
 
-- ⚡ Fun fact **I play video games and watch series**
-  <br/>
+**Trading & Analytics Platforms** 📊
+![Trading](https://img.shields.io/badge/Trading%20Platforms-88%25-9f7aea?style=for-the-badge&logo=chart&logoColor=white&labelColor=000000)
 
-<p align="center">
+**Digital Wallet Solutions** 💰
+![Digital Wallet](https://img.shields.io/badge/Digital%20Wallets-85%25-00c896?style=for-the-badge&logo=wallet&logoColor=white&labelColor=000000)
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats with Custom Theme -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT21158636&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00d4ff&text_color=c9d1d9&title_color=00d4ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158636&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=00d4ff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158636&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IT21158636&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&hide_border=true"/>
+
+<br/><br/>
+
+<!-- Featured Projects Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured FinTech Projects
+
+<div align="center">
+
+| 🏦 Project | 💻 Tech Stack | 🌟 Domain | 📈 Status |
+|------------|---------------|-----------|-----------|
+| **Digital Banking Platform** | Java Spring Boot + React + MySQL | Core Banking | 🟢 Active |
+| **Payment Gateway System** | Spring Boot + React + PostgreSQL | Payment Processing | 🟢 Active |
+| **Crypto Trading Bot** | Java + WebSocket + React | Cryptocurrency | 🟡 Maintenance |
+| **Mobile Wallet App** | React Native + Spring Boot | Digital Payments | 🟢 Active |
+| **KYC Verification System** | Spring Boot + AI/ML + React | Compliance | 🟢 Active |
+| **Real-time Analytics Dashboard** | React + Spring Boot + MongoDB | Financial Analytics | 🟢 Active |
+
+</div>
+
+<br/>
+
+<!-- Professional Achievements -->
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> FinTech Specializations
+
+<div align="center">
+
+🏆 **Payment Systems Engineer** | 🎯 **Banking Solutions Architect** | 🌟 **Financial Security Expert**
+
+<br/>
+
+**My FinTech Expertise:**
+- 💳 **Payment Gateway Integration** - Stripe, PayPal, Razorpay, Square
+- 🏦 **Core Banking Systems** - Account management, transaction processing
+- 💰 **Digital Wallets** - Mobile payment solutions, P2P transfers
+- 🔐 **Financial Security** - PCI-DSS compliance, fraud detection
+- 📈 **Trading Platforms** - Real-time market data, algorithmic trading
+- 🔍 **KYC/AML Systems** - Identity verification, compliance automation
+- 💱 **Currency Exchange** - Multi-currency support, real-time rates
+- 📊 **Financial Analytics** - Risk assessment, reporting dashboards
+
+</div>
+
+<br/>
+
+<!-- Academic Credentials -->
+<div align="center">
 
 ```
-For Academic Purposes
-
+🎓 ACADEMIC CREDENTIALS
+═══════════════════════════════════════════════════════════════
 SLIIT Student ID: IT21158636
 Student Name: Rathnayake R.M.U.P.D.
+Degree: BSc (Hons) in Information Technology - Specialized in IT
+Status: Graduate | GPA: Distinction Level
 ```
 
-</p>
-
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=IT21158636&theme=dark&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=IT21158636&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158636&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-  <br/>
-
-  <center>
-  <b>Note:</b> I always really enjoying when, learning things that, new to me. So, languages and
-frameworks like React and Golang, as well as my Degree. And also enjoy wireframing,
-ui, ux, and design in general.(Prefered in Frontend Developing)
-</center>
+</div>
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<!-- Contact & Collaboration -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect & Create
 
+<div align="center">
 
-If you like what am doing, maybe consider buying me a coffee/tea👉👈
-<a href="https://nextoex.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<!-- ## Snake eating my contributions graph -->
+### 🤝 Open for FinTech Collaboration
+- 🏦 **Banking & Finance Projects**
+- 💳 **Payment System Development**  
+- 🔐 **Security & Compliance Solutions**
+- 📊 **Trading Platform Development**
+- 💰 **Digital Wallet Applications**
 
-![snake gif](https://nextoex.com/)
+</td>
+<td width="50%" align="center">
+
+### 📬 Reach Out
+- 📧 **ureshpinidiya96@gmail.com**
+- 💼 **LinkedIn**: FinTech Networking
+- 🐦 **Twitter**: Financial Tech Discussions
+- 📱 **Available for**: FinTech Consulting/Development
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💡 "In FinTech, security isn't just a feature—it's the foundation of trust." - Uresh Pinidiya
+
+<br/>
+
+<!-- Support Section -->
+<p align="center">
+  <b>☕ Fuel My Coding Sessions</b><br/>
+  <a href="https://nextoex.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
+  </a>
+</p>
+
+</div>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+</div>
+
+</div>
