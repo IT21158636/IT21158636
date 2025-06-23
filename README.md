@@ -92,4 +92,4 @@ If you like what am doing, maybe consider buying me a coffee/tea👉👈
 
 <!-- ## Snake eating my contributions graph -->
 
-![snake gif](https://github.com/IT21158186/IT21158186/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://nextoex.com/)
