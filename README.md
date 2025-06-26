@@ -12,7 +12,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Uresh+Pinidiya+%F0%9F%91%8B;FinTech+Solutions+Engineer+%F0%9F%92%B0;Java+Spring+Boot+%2B+React.js+Expert+%F0%9F%9A%80;Payment+Systems+Specialist+%F0%9F%92%B3;Banking+%26+Finance+Developer+%F0%9F%8F%A6;Security+%26+Compliance+Expert+%F0%9F%94%92;Building+Financial+Innovation+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Uresh+Pinidiya+%F0%9F%91%8B;Associate+Full+Stack+Software+Engineer+%F0%9F%9A%80;Java+%26+JavaScript+Expert+%E2%98%95%F0%9F%9F%A8;Building+Enterprise+Solutions+%F0%9F%8F%A2;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%93%B1;Co-Banking+Web+App+Specialist+%F0%9F%8F%A6;Crafting+Digital+Experiences+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -21,14 +21,14 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <span style="background: linear-gradient(45deg, #00d4ff, #ff00ea); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 42px; font-weight: bold;">
-    Associate Software Engineer
+    Associate Full Stack Software Engineer
   </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <!-- Animated Subtitle -->
 <h3 align="center" style="color: #64ffda;">
-  🏦 Building Next-Gen Financial Solutions with Java Spring Boot & React.js 💳
+  ☕ Mastering Java & JavaScript for Scalable Web Applications 🟨
 </h3>
 
 <br/>
@@ -55,9 +55,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IT21158636&style=for-the-badge&color=00d4ff&labelColor=000000" height="35"/>
   <img src="https://img.shields.io/github/followers/IT21158636?label=Followers&style=for-the-badge&color=00d4ff&labelColor=000000" height="35"/>
-  <img src="https://img.shields.io/badge/Focus-FinTech%20Solutions-00d4ff?style=for-the-badge&labelColor=000000" height="35"/>
-  <img src="https://img.shields.io/badge/Code-Java%20%26%20React-ff00ea?style=for-the-badge&labelColor=000000" height="35"/>
-  <img src="https://img.shields.io/badge/Domain-Banking%20%26%20Finance-00c896?style=for-the-badge&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20JavaScript-00d4ff?style=for-the-badge&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Speciality-Enterprise%20Solutions-ff00ea?style=for-the-badge&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Domain-Co--Banking%20Development-00c896?style=for-the-badge&labelColor=000000" height="35"/>
 </p>
 
 </div>
@@ -74,21 +74,21 @@
 <td width="50%">
 
 ### 👨‍💻 Professional Journey
-- 💼 **FinTech Solutions Engineer** at Tech Industry
+- 💼 **Associate Full Stack Software Engineer** 
+- ☕ **Java & JavaScript Specialist** - 3+ Years Experience
 - 🎓 **BSc (Hons) IT** Graduate from SLIIT
-- 🏆 **3+ Years** of Financial Software Development
-- 💰 **Payment Systems Specialist** in Banking Domain
-- 🏦 **Enterprise FinTech** Solutions Architect
+- 🏆 **Enterprise Application** Development Expert
+- 🏦 **Co-Banking Solutions** Developer
 
 </td>
 <td width="50%">
 
 ### 🎯 Current Focus
-- 💳 **Payment Gateway** Integration & Development
-- 🏦 **Core Banking** Systems Architecture
-- 💰 **Digital Wallet** & Mobile Banking Solutions
-- 🔐 **PCI-DSS Compliance** & Financial Security
-- 📊 **Real-time Trading** & Analytics Platforms
+- ☕ **Java Backend Development** - Spring Boot, Microservices
+- 🟨 **JavaScript Frontend** - React.js, Vue.js, Modern ES6+
+- 🏦 **Co-Banking Web Applications** - Banking APIs Integration
+- ☁️ **Cloud-Native Applications** - Scalable & Resilient
+- 🔧 **Full Stack Architecture** - End-to-end Solutions
 
 </td>
 </tr>
@@ -97,44 +97,65 @@
 <br/>
 
 <!-- Tech Stack Showcase -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> FinTech Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Tech Stack Arsenal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
-### 🏦 Banking & Finance Backend
+### ☕ Java Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,postgres,redis,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate,kafka,redis,elasticsearch" />
 </p>
 
-### 💳 Payment Systems & Frontend
+### 🟨 JavaScript Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,sass,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,express,webpack" />
 </p>
 
-### 🔒 Security & Compliance Tools
+### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,firebase,nodejs" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,aws,gcp,azure,docker,kubernetes" />
+</p>
+
+### 🛠️ Development Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,tailwind,bootstrap" />
+</p>
+
+### 🏦 FinTech & Co-Banking Solutions
+<p align="center">
+  <img src="https://img.shields.io/badge/Co_Banking-FF6B35?style=for-the-badge&logo=bank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Banking_APIs-008CDD?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Banking-00457C?style=for-the-badge&logo=openbanking&logoColor=white" />
+  <img src="https://img.shields.io/badge/Financial_Services-02042B?style=for-the-badge&logo=finance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Regulatory_Compliance-00C896?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/BaaS_Platforms-9F7AEA?style=for-the-badge&logo=cloud&logoColor=white" />
 </p>
 
 <br/>
 
 <!-- Advanced Skills with Progress Bars -->
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> FinTech Expertise Levels
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Technical Expertise Levels
 
 <div align="left">
 
-**Payment Systems Development** 💳
-![Payment Systems](https://img.shields.io/badge/Payment%20Systems-95%25-00d4ff?style=for-the-badge&logo=stripe&logoColor=white&labelColor=000000)
+**Full Stack Web Development** 🌐
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Development-95%25-00d4ff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
 
-**Banking Solutions Architecture** 🏦  
-![Banking](https://img.shields.io/badge/Banking%20Solutions-92%25-61dafb?style=for-the-badge&logo=bank&logoColor=white&labelColor=000000)
+**Frontend Technologies** 🎨  
+![Frontend](https://img.shields.io/badge/Frontend%20Development-92%25-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=000000)
 
-**Financial Security & Compliance** 🔒
-![Security](https://img.shields.io/badge/Security%20%26%20Compliance-90%25-ff6b35?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000)
+**Backend Development** ⚙️
+![Backend](https://img.shields.io/badge/Backend%20Development-90%25-ff6b35?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000)
 
-**Trading & Analytics Platforms** 📊
-![Trading](https://img.shields.io/badge/Trading%20Platforms-88%25-9f7aea?style=for-the-badge&logo=chart&logoColor=white&labelColor=000000)
+**Database Management** 🗄️
+![Database](https://img.shields.io/badge/Database%20Management-88%25-9f7aea?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 
-**Digital Wallet Solutions** 💰
-![Digital Wallet](https://img.shields.io/badge/Digital%20Wallets-85%25-00c896?style=for-the-badge&logo=wallet&logoColor=white&labelColor=000000)
+**Cloud & DevOps** ☁️
+![Cloud](https://img.shields.io/badge/Cloud%20%26%20DevOps-85%25-00c896?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+
+**Mobile Development** 📱
+![Mobile](https://img.shields.io/badge/Mobile%20Development-82%25-ff9500?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+
+**FinTech & Co-Banking Solutions** 🏦
+![FinTech](https://img.shields.io/badge/Co--Banking%20Development-88%25-28a745?style=for-the-badge&logo=bank&logoColor=white&labelColor=000000)
 
 </div>
 
@@ -162,41 +183,43 @@
 <br/><br/>
 
 <!-- Featured Projects Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured FinTech Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Software Projects
 
 <div align="center">
 
-| 🏦 Project | 💻 Tech Stack | 🌟 Domain | 📈 Status |
-|------------|---------------|-----------|-----------|
-| **Digital Banking Platform** | Java Spring Boot + React + MySQL | Core Banking | 🟢 Active |
-| **Payment Gateway System** | Spring Boot + React + PostgreSQL | Payment Processing | 🟢 Active |
-| **Crypto Trading Bot** | Java + WebSocket + React | Cryptocurrency | 🟡 Maintenance |
-| **Mobile Wallet App** | React Native + Spring Boot | Digital Payments | 🟢 Active |
-| **KYC Verification System** | Spring Boot + AI/ML + React | Compliance | 🟢 Active |
-| **Real-time Analytics Dashboard** | React + Spring Boot + MongoDB | Financial Analytics | 🟢 Active |
+| 🚀 Project | 💻 Tech Stack | 🎯 Category | 📈 Status |
+|------------|---------------|-------------|-----------|
+| **Enterprise Web Platform** | Java Spring Boot + React.js + PostgreSQL | Full Stack Web | 🟢 Active |
+| **E-Commerce Web Application** | JavaScript + Vue.js + Node.js + MySQL | Full Stack JavaScript | 🟢 Active |
+| **Co-Banking Web Platform** | Java Spring Boot + React.js + Banking APIs | Co-Banking Solution | 🟢 Active |
+| **Real-time Chat Application** | Node.js + Socket.io + React.js + MongoDB | JavaScript Full Stack | 🟢 Active |
+| **Task Management System** | Java Spring Boot + Vue.js + PostgreSQL | Enterprise Web App | 🟢 Active |
+| **Banking Dashboard** | Next.js + Express.js + PostgreSQL | Financial Web App | 🟡 Maintenance |
 
 </div>
 
 <br/>
 
 <!-- Professional Achievements -->
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> FinTech Specializations
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Development Specializations
 
 <div align="center">
 
-🏆 **Payment Systems Engineer** | 🎯 **Banking Solutions Architect** | 🌟 **Financial Security Expert**
+🏆 **Java & JavaScript Expert** | 🎯 **Full Stack Architect** | 🌟 **Co-Banking Specialist**
 
 <br/>
 
-**My FinTech Expertise:**
-- 💳 **Payment Gateway Integration** - Stripe, PayPal, Razorpay, Square
-- 🏦 **Core Banking Systems** - Account management, transaction processing
-- 💰 **Digital Wallets** - Mobile payment solutions, P2P transfers
-- 🔐 **Financial Security** - PCI-DSS compliance, fraud detection
-- 📈 **Trading Platforms** - Real-time market data, algorithmic trading
-- 🔍 **KYC/AML Systems** - Identity verification, compliance automation
-- 💱 **Currency Exchange** - Multi-currency support, real-time rates
-- 📊 **Financial Analytics** - Risk assessment, reporting dashboards
+**My Technical Expertise:**
+- ☕ **Java Development** - Spring Boot, Spring Framework, Maven, Gradle
+- 🟨 **JavaScript Development** - ES6+, React.js, Vue.js, Node.js, Express.js
+- 🌐 **Full Stack Web Development** - End-to-end application development
+- 🏦 **Co-Banking Solutions** - Banking-as-a-Service platforms, embedded finance
+- 🗄️ **Database Management** - MySQL, PostgreSQL, MongoDB with Java & JS
+- ☁️ **Cloud Solutions** - AWS, GCP deployment with containerization
+- 🔧 **DevOps & CI/CD** - Automated testing, deployment pipelines
+- 🎨 **Frontend Architecture** - Modern JavaScript frameworks & libraries
+- 🔒 **Security Implementation** - Financial-grade security, regulatory compliance
+- 📊 **API Development** - RESTful services, microservices architecture
 
 </div>
 
@@ -210,7 +233,7 @@
 ═══════════════════════════════════════════════════════════════
 SLIIT Student ID: IT21158636
 Student Name: Rathnayake R.M.U.P.D.
-Degree: BSc (Hons) in Information Technology - Specialized in IT
+Degree: BSc (Hons) in Information Technology - Software Engineering
 Status: Graduate | GPA: Distinction Level
 ```
 
@@ -219,7 +242,7 @@ Status: Graduate | GPA: Distinction Level
 <br/>
 
 <!-- Contact & Collaboration -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect & Create
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect & Build
 
 <div align="center">
 
@@ -227,21 +250,22 @@ Status: Graduate | GPA: Distinction Level
 <tr>
 <td width="50%" align="center">
 
-### 🤝 Open for FinTech Collaboration
-- 🏦 **Banking & Finance Projects**
-- 💳 **Payment System Development**  
-- 🔐 **Security & Compliance Solutions**
-- 📊 **Trading Platform Development**
-- 💰 **Digital Wallet Applications**
+### 🤝 Open for Collaboration
+- 🌐 **Full Stack Web Applications**
+- 📱 **Mobile App Development**  
+- 🏦 **Co-Banking & BaaS Solutions**
+- ☁️ **Cloud-Native Solutions**
+- 🔧 **DevOps & Infrastructure**
+- 🎨 **UI/UX Implementation**
 
 </td>
 <td width="50%" align="center">
 
-### 📬 Reach Out
+### 📬 Get In Touch
 - 📧 **ureshpinidiya96@gmail.com**
-- 💼 **LinkedIn**: FinTech Networking
-- 🐦 **Twitter**: Financial Tech Discussions
-- 📱 **Available for**: FinTech Consulting/Development
+- 💼 **LinkedIn**: Professional Networking
+- 🐦 **Twitter**: Tech Discussions & Updates
+- 📱 **Available for**: Development & Consulting
 
 </td>
 </tr>
@@ -249,13 +273,13 @@ Status: Graduate | GPA: Distinction Level
 
 <br/>
 
-### 💡 "In FinTech, security isn't just a feature—it's the foundation of trust." - Uresh Pinidiya
+### 💡 "Code is poetry written in logic, crafted with passion, and designed to solve real-world problems." - Uresh Pinidiya
 
 <br/>
 
 <!-- Support Section -->
 <p align="center">
-  <b>☕ Fuel My Coding Sessions</b><br/>
+  <b>☕ Support My Development Journey</b><br/>
   <a href="https://nextoex.com/" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40"/>
   </a>
